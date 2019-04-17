@@ -51,7 +51,7 @@ Puma logs:
 
 ```bash
 ---
-2019-04-16 15:14:29 +0300: HTTP parse error, malformed request (): #<Puma::HttpParserError: Invalid HTTP format, parsing fails.>
+xxx: HTTP parse error, malformed request (): #<Puma::HttpParserError: Invalid HTTP format, parsing fails.>
 ---
 ```
 
